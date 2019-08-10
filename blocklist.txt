@@ -1,3 +1,6 @@
 [Adblock Plus 2.0]
+! Outbrain putaclick
 ##.OUTBRAIN
 ||outbrain.com^
+! No advert but visual polution
+||googletagmanager.com^
