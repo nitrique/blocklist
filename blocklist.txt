@@ -4,3 +4,5 @@
 ||outbrain.com^
 ! No advert but visual polution
 ||googletagmanager.com^
+##.as-oil
+||googlesyndication.com
