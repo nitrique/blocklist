@@ -1,8 +1,20 @@
 [Adblock Plus 2.0]
+!
 ! Outbrain putaclick
+!
 ##.OUTBRAIN
 ||outbrain.com^
+!
 ! No advert but visual polution
+!
 ||googletagmanager.com^
 ##.as-oil
 ||googlesyndication.com
+!
+!   Tracking
+!
+||aticdn.net
+||acpm.fr
+||mediago.net
+||keywee.com
+||amplitude.com
