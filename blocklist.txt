@@ -18,3 +18,5 @@
 ||mediago.net
 ||keywee.co
 ||amplitude.com
+! Visual polution
+###CMP_alternative
