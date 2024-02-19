@@ -20,3 +20,8 @@
 ||amplitude.com
 ! Visual polution
 ###CMP_alternative
+!
+! DIDOMI 
+!
+###didomi-host
+###cookie-wall
