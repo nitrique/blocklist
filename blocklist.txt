@@ -26,3 +26,6 @@
 ###didomi-host
 ###cookie-wall
 ||privacy-center.org^
+*##script:contains(Didomi)
+*##div[id="didomi-host"]
+*##.didomi-popup-open
