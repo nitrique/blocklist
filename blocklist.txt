@@ -23,4 +23,6 @@
 !
 ! DIDOMI 
 !
+###didomi-host
+###cookie-wall
 ||privacy-center.org^
