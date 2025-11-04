@@ -29,3 +29,7 @@
 *##script:contains(Didomi)
 *##div[id="didomi-host"]
 *##.didomi-popup-open
+!
+! Google bad practices (GTM mostly)
+!
+*##+js(set, dataLayer.push, noopFunc)
